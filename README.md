@@ -1,64 +1,116 @@
-# Hi there, I'm Aish 👋
+### Hi, <coders/>!
+<h1 align="center">I’m Ayesha Siddika 👋, a future cybersecurity pro fueled by code and curiosity.</h1>
 
-Welcome to my GitHub profile! I'm a passionate and versatile technologist with a deep interest in cybersecurity, programming, and tech education. Here's a bit about me:
-
----
-
-## 🌟 About Me
-
-- **🔐 Cybersecurity Enthusiast**: Exploring the world of ethical hacking, penetration testing, and network security.
-- **💻 Web Developer**: Building modern web applications with Python, HTML, CSS, and JavaScript.
-- **👩‍💻 STEM Transitioner**: I made the jump from humanities to STEM, diving into programming, advanced mathematics, and tech.
-- **📚 Lifelong Learner**: Always expanding my skills in Python, cybersecurity, and calculus (thanks, Khan Academy!).
-
----
-
-## 🛠️ Skills & Technologies
-
-### Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Cisco-ff6f00?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Network_Security-4E4E4E?style=for-the-badge&logo=python&logoColor=white" alt="Network Security" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://via.placeholder.com/300x150.png?text=Cybersecurity+Journey" alt="Banner">
+</p>
+
+<h3 align="center">19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President -Interact club | Bangladeshi | 🍉</h3>
+
+I’m a 19-year-old Bangladeshi student (RGWCian '24) on a mission to secure the digital world. I scored 96% in ICT board exams, mastered C programming and web dev, and now I’m tackling Harvard’s CS50x and Python. Co-founder of Our Scolario (7,000+ students supported), I also lead in Rotaract, teach ICT to underprivileged kids, and stand for justice 🍉.
+
+- 🌱 **Currently Learning**: SAT (1470+ mock), IELTS (7.0 mock), Calculus I, MIT OCW Math & Physics  
+- 💻 **Working On**: Cybersecurity basics, Python projects  
+- 🤝 **Looking to Collaborate On**: Open-source tech for education  
+- 📫 **How to Reach Me**: [your.email@example.com](mailto:your.email@example.com)  
+- ⚡ **Fun Fact**: I’m a watermelon enthusiast—standing for a free Palestine 🍉  
+
+---
+
+## Coursework Highlights 📚
+- **ICT (11th-12th)**: 96% in board exams—Digital Number Systems, Logic Gates, Databases, C Programming, Web Development  
+- **Science Stream (9th-10th)**: Physics, Chemistry, Biology, Math, IT (96% overall)  
+- **Self-Study**: CS50x, Python, Intro to Cybersecurity, MIT OCW Math & Physics  
+
+---
+
+## My Skills 🚀
+
+<div align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
+</div>
+
+---
+
+## Leadership & Impact 🌟
+- **Our Scolario**: Co-founder—7,000+ students empowered with scholarship info  
+- **Interact Club**: Past President, 5+ years in Rotary & Rotaract  
+- **Community**: State In-Charge for ICT Olympiad, Batch President, UNYSA Volunteer  
+
+---
+
+## Find Me Around the Web 🌐
+
+<p align="left">
+<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+
+### Yo, <coders/>! 
+<h1 align="center">I’m [Your Name] 😎 – Hacking My Way to a Cybersecure Tomorrow</h1>
+
+<p align="center">
+<img src="https://via.placeholder.com/400x200.png?text=Code+%26+Courage" alt="Cyber Banner" width="400">
+</p>
+
+<h3 align="center">Cyber Warrior in Training | Code Ninja | World Changer</h3>
+
+I’m a 19-year-old Bangladeshi powerhouse (RGWCian '24) obsessed with cracking codes and securing systems. I smashed ICT with a 96%, flexed my skills in C and web dev, and now I’m leveling up with CS50x and Python. I co-founded Our Scolario (7,000+ students strong), lead like a boss in Rotaract, and teach kids ICT—all while waving the watermelon flag 🍉 for a free Palestine.
+
+- 🌟 **Grinding**: SAT (1470+ mock), IELTS (7.0 mock), Calculus I, MIT OCW  
+- 🛠 **Cooking Up**: Cybersecurity hacks, Python goodies  
+- 🚀 **Collab Goals**: Open-source education or security projects  
+- 📡 **Hit Me Up**: [your.email@example.com](mailto:your.email@example.com)  
+- 💥 **Random Bit**: I’m all about justice 🍉 and empowering the next gen  
+
+---
+
+## Coursework Wins 🎯
+- **ICT Domination**: 96%—Logic Gates, Binary Vibes, Databases, C, Web Magic  
+- **Science Throwback**: 96%—Physics, Chem, Bio, Math, IT  
+- **Solo Quests**: CS50x, Cybersecurity 101, Python, MIT Math & Physics  
+
+---
+
+## My Arsenal 🚀
+<div align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C" title="C Programming">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" title="HTML5">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" title="CSS3">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" title="JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" title="MySQL">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" width="40" alt="Bash" title="Bash">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" title="Linux">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code">
+</div>
+
+---
+
+## Big Moves 🌍
+- **Our Scolario**: Co-founder—7,000+ students, scholarship game-changer  
+- **Boss Mode**: Interact Club Prez, ICT Olympiad State Lead, Rotaract Star  
+- **Heart & Hustle**: Teaching ICT & English to kids who deserve a shot  
+
+---
+
+## Catch Me Online 🌐
+<p align="left">
+<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" title="Twitter" /></a>
+<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" title="LinkedIn" /></a>
+<a href="https://github.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" title="GitHub" /></a>
+<a href="https://www.instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" title="Instagram" /></a>
 </p>
 
 ---
 
-## 📈 Projects & Contributions
-
-I’m constantly building new things! Here are some highlights:
-
-- **Cybersecurity Research Paper (WIP)**: Exploring advanced techniques in ethical hacking and network security.
-- **Battle of the Bastards Game**: A Game of Thrones-inspired Scratch game with Jon Snow vs. Ramsay Bolton.
-- **Scolario**: Co-founder of an educational startup focused on tech and learning.
-- **Volunteer Tech Teaching**: Providing free tech education to underprivileged students.
-
----
-
-## 📫 Get in Touch
-
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Aish's LinkedIn](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://x.com/yourhandle)
-
----
-
-## 🌐 Let's Connect
-
-Feel free to check out my repositories, and let me know if you want to collaborate on any projects. I’m always excited to meet new people and explore opportunities in tech!
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-Thanks for visiting my profile! Let’s keep building the future! 🚀
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4" alt="Profile views">
+</p>
