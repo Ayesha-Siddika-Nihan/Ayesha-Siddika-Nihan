@@ -144,18 +144,22 @@ Hey, I’m Nihan, a 19-year-old recent grad from Rajshahi Government Women’s C
 
 ## My Tech Toolkit 🚀
 <div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C" title="C Programming">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" title="HTML5">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" title="CSS3">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" title="JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" title="MySQL">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" width="40" alt="Bash" title="Bash">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" title="Linux">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C" title="C Programming">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python">
+<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" height="40" width="40" alt="Cisco" title="Cisco">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="40" width="40" alt="WordPress" title="WordPress">
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" width="40" alt="Framer" title="Framer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" height="40" width="40" alt="Trello" title="Trello (Project Management)">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" title="Figma (Design)">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" title="JavaScript (Web Dev)">
+<img src="https://e7.pngegg.com/pngimages/847/994/png-clipart-khan-academy-logo-thumbnail-tech-companies-thumbnail.png" height="40" width="40" alt="Khan Academy" title="Khan Academy">
+<img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" height="40" width="40" alt="Coursera" title="Coursera">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqjPNtfM-ot5YLNcWT2hF4iJWeOYg50nzxA&s" height="40" width="40" alt="CS50" title="CS50 (Harvard)">
+<img src="![image](https://github.com/user-attachments/assets/471b8733-ee93-41f0-9f61-85854ee6d7bf)
+" height="40" width="40" alt="MIT" title="MIT (MIT Open Courseware)">
+</div>
 </div>
 
 ---
