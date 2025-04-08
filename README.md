@@ -2,7 +2,7 @@
 <h1 align="center">I’m Ayesha Siddika 👋, a future cybersecurity pro fueled by code and curiosity.</h1>
 
 <p align="center">
-<img src="https://via.placeholder.com/300x150.png?text=Cybersecurity+Journey" alt="Banner">
+<img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image%20(6).png?raw=true" alt="Banner">
 </p>
 
 <h3 align="center">19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President -Interact club | Bangladeshi | 🍉</h3>
@@ -120,7 +120,7 @@ I’m a 19-year-old Bangladeshi powerhouse (RGWCian '24) obsessed with cracking 
 <h1 align="center">I’m Ayesha Siddika 🌟 – Building a Cybersecure Future with Heart & Code</h1>
 
 <p align="center">
-<img src="[URL-to-your-banner-image]" alt="Ayesha's Banner" width="600">
+<img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image%20(6).png?raw=true" alt="Ayesha's Banner" width="1000">
 </p>
 
 <h3 align="center">Cybersecurity Dreamer | Code Enthusiast | Global Changemaker</h3>
