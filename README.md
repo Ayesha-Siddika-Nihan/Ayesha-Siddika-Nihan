@@ -125,7 +125,7 @@ I’m a 19-year-old Bangladeshi powerhouse (RGWCian '24) obsessed with cracking 
 
 <h3 align="center">Cybersecurity Dreamer | Code Enthusiast | Global Changemaker</h3>
 
-I’m a 19-year-old proud Bangladeshi (RGWCian '24) from Rajshahi, diving headfirst into cybersecurity. I scored a 96% in ICT, mastered C and web dev, and now I’m exploring CS50x and Python. I co-founded Our Scolario to empower 7,000+ students, lead in Rotaract, and teach ICT to kids—all while advocating for a free Palestine 🍉. Let’s code a better tomorrow together!
+Hey, I’m Nihan, a 19-year-old recent grad from Rajshahi Government Women’s College, now on a gap year adventure! I’m all about becoming well-educated and giving back to my community in big ways. I scored a 96% in ICT, dove into C and web dev, and now I’m exploring CS50x and Python. I co-founded Our Scolario (7,000+ students strong), lead in Rotaract, and teach ICT to kids—oh, and I’m a proud advocate for a free Palestine 🍉. When I’m not coding or volunteering, you’ll find me lost in movies, gaming, or dreaming up my next big move. . Plus, I love volunteering and staying involved in extracurriculars. Excited to see where this journey leads me!
 
 - 🌱 **Growing Strong**: SAT (1470+ mock), IELTS (7.0 mock), Calculus I, MIT OCW Math & Physics  
 - 💻 **Crafting**: Cybersecurity projects, Python scripts  
