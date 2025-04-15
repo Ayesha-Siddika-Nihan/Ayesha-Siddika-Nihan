@@ -1,187 +1,69 @@
-### Hi, <coders/>!
-<h1 align="center">I’m Ayesha Siddika 👋, a future cybersecurity pro fueled by code and curiosity.</h1>
+<h1> Yo, < coders/>!  </h1>
+
+<h3 align="center">Nihan| 19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President -Interact club | Bangladeshi | 🍉</h3>
+
+---
+
 
 <p align="center">
 <img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image%20(6).png?raw=true" alt="Banner">
 </p>
 
-<h3 align="center">19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President -Interact club | Bangladeshi | 🍉</h3>
+### 👋 Hey, I’m Ayesha!
 
-I’m a 19-year-old Bangladeshi student (RGWCian '24) on a mission to secure the digital world. I scored 96% in ICT board exams, mastered C programming and web dev, and now I’m tackling Harvard’s CS50x and Python. Co-founder of Our Scolario (7,000+ students supported), I also lead in Rotaract, teach ICT to underprivileged kids, and stand for justice 🍉.
-
-- 🌱 **Currently Learning**: SAT (1470+ mock), IELTS (7.0 mock), Calculus I, MIT OCW Math & Physics  
-- 💻 **Working On**: Cybersecurity basics, Python projects  
-- 🤝 **Looking to Collaborate On**: Open-source tech for education  
-- 📫 **How to Reach Me**: [your.email@example.com](mailto:your.email@example.com)  
-- ⚡ **Fun Fact**: I’m a watermelon enthusiast—standing for a free Palestine 🍉  
+I'm a 19-year-old recent grad from Rajshahi Government Women’s College, now on a gap year adventure! I’m all about becoming well-educated and giving back to my community in big ways. I scored a 96% in ICT, dove into C and web dev, and now I’m exploring CS50x and Python. I co-founded **Our Scolario** (7,000+ students strong), lead in Rotaract, and teach ICT to kids. When I’m not coding or volunteering, you’ll find me lost in movies, gaming, or dreaming up my next big move. Plus, I love volunteering and staying involved in extracurriculars. Excited to see where this journey leads me!
 
 ---
 
-## Coursework Highlights 📚
-- **ICT (11th-12th)**: 96% in board exams—Digital Number Systems, Logic Gates, Databases, C Programming, Web Development  
-- **Science Stream (9th-10th)**: Physics, Chemistry, Biology, Math, IT (96% overall)  
-- **Self-Study**: CS50x, Python, Intro to Cybersecurity, MIT OCW Math & Physics  
+## 📚 Coursework Highlights
+
+- **Self-Study**: CS50x, programming,Cybersecurity, MIT OCW Math & Physics  
+
+- ✅ CS50x (Intro to Computer Science)  
+- ✅ CS50’s Intro to Programming with Python  
+- ✅ CS50’s Intro to Databases with SQL  
+- ✅ CS50’s Intro to Artificial Intelligence  
+- ✅ CS50’s Intro to Cybersecurity  
+- 🚧 Cisco - Junior Cybersecurity Path (ongoing)  
+- 🧠 Khan Academy (exploring during gap)
 
 ---
-
-## My Skills 🚀
-
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
-</div>
-
----
-
-## Leadership & Impact 🌟
-- **Our Scolario**: Co-founder—7,000+ students empowered with scholarship info  
-- **Interact Club**: Past President, 5+ years in Rotary & Rotaract  
-- **Community**: State In-Charge for ICT Olympiad, Batch President, UNYSA Volunteer  
-
----
-
-## Find Me Around the Web 🌐
+## 🚀 My Tech Toolkit
 
 <p align="left">
-<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-%23121011?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pantheon-FEDB00?style=for-the-badge&logo=pantheon&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%23121011?style=for-the-badge&logo=data-bricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10a37f?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeepSeek-AAD8D3?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub%20Co--Pilot-1C1C1C?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 
-### Yo, <coders/>! 
-<h1 align="center">I’m [Your Name] 😎 – Hacking My Way to a Cybersecure Tomorrow</h1>
+## 🌐 Catch me Online
 
-<p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Code+%26+Courage" alt="Cyber Banner" width="400">
-</p>
-
-<h3 align="center">Cyber Warrior in Training | Code Ninja | World Changer</h3>
-
-I’m a 19-year-old Bangladeshi powerhouse (RGWCian '24) obsessed with cracking codes and securing systems. I smashed ICT with a 96%, flexed my skills in C and web dev, and now I’m leveling up with CS50x and Python. I co-founded Our Scolario (7,000+ students strong), lead like a boss in Rotaract, and teach kids ICT—all while waving the watermelon flag 🍉 for a free Palestine.
-
-- 🌟 **Grinding**: SAT (1470+ mock), IELTS (7.0 mock), Calculus I, MIT OCW  
-- 🛠 **Cooking Up**: Cybersecurity hacks, Python goodies  
-- 🚀 **Collab Goals**: Open-source education or security projects  
-- 📡 **Hit Me Up**: [your.email@example.com](mailto:your.email@example.com)  
-- 💥 **Random Bit**: I’m all about justice 🍉 and empowering the next gen  
-
----
-
-## Coursework Wins 🎯
-- **ICT Domination**: 96%—Logic Gates, Binary Vibes, Databases, C, Web Magic  
-- **Science Throwback**: 96%—Physics, Chem, Bio, Math, IT  
-- **Solo Quests**: CS50x, Cybersecurity 101, Python, MIT Math & Physics  
-
----
-
-## My Arsenal 🚀
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C" title="C Programming">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" title="HTML5">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" title="CSS3">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" title="JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL" title="MySQL">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" width="40" alt="Bash" title="Bash">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" title="Linux">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code">
-</div>
-
----
-
-## Big Moves 🌍
-- **Our Scolario**: Co-founder—7,000+ students, scholarship game-changer  
-- **Boss Mode**: Interact Club Prez, ICT Olympiad State Lead, Rotaract Star  
-- **Heart & Hustle**: Teaching ICT & English to kids who deserve a shot  
-
----
-
-## Catch Me Online 🌐
 <p align="left">
-<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" title="Twitter" /></a>
-<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" title="LinkedIn" /></a>
-<a href="https://github.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" title="GitHub" /></a>
-<a href="https://www.instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" title="Instagram" /></a>
+  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4" alt="Profile views">
-</p>
-
-
-### Hey there, <coders/>! 
-<h1 align="center">I’m Ayesha Siddika 🌟 – Building a Cybersecure Future with Heart & Code</h1>
-
-<p align="center">
-<img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image%20(6).png?raw=true" alt="Ayesha's Banner" width="1000">
-</p>
-
-<h3 align="center">Cybersecurity Dreamer | Code Enthusiast | Global Changemaker</h3>
-
-Hey, I’m Nihan, a 19-year-old recent grad from Rajshahi Government Women’s College, now on a gap year adventure! I’m all about becoming well-educated and giving back to my community in big ways. I scored a 96% in ICT, dove into C and web dev, and now I’m exploring CS50x and Python. I co-founded Our Scolario (7,000+ students strong), lead in Rotaract, and teach ICT to kids—oh, and I’m a proud advocate for a free Palestine 🍉. When I’m not coding or volunteering, you’ll find me lost in movies, gaming, or dreaming up my next big move. . Plus, I love volunteering and staying involved in extracurriculars. Excited to see where this journey leads me!
-
-- 🌱 **Growing Strong**: SAT (1470+ mock), IELTS (7.0 mock), Calculus I, MIT OCW Math & Physics  
-- 💻 **Crafting**: Cybersecurity projects, Python scripts  
-- 🤝 **Let’s Team Up**: Open-source education or security initiatives  
-- 📧 **Say Hi**: [ayeshasiddika.readme@gmail.com](mailto:ayeshasiddika.readme@gmail.com)  
-- 💡 **Fun Spark**: I’m all about justice 🍉 and lifting others up  
-
----
-
-## Coursework Highlights 📚
-- **ICT Excellence**: 96%—Logic Gates, Binary Systems, Databases, C Programming, Web Dev  
-- **Science Foundation**: 96%—Physics, Chemistry, Biology, Math, IT  
-- **Self-Led Learning**: CS50x (Harvard), Intro to Cybersecurity, Python, MIT OCW Math & Physics  
-
----
-
-## My Tech Toolkit 🚀
-<div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5" title="HTML5">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3" title="CSS3">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C" title="C Programming">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python" title="Python">
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" height="40" width="40" alt="Cisco" title="Cisco">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="40" width="40" alt="WordPress" title="WordPress">
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" width="40" alt="Framer" title="Framer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" width="40" alt="Git" title="Git">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="40" alt="VS Code" title="VS Code">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript" title="JavaScript (Web Dev)">
-<img src="https://e7.pngegg.com/pngimages/847/994/png-clipart-khan-academy-logo-thumbnail-tech-companies-thumbnail.png" height="40" width="40" alt="Khan Academy" title="Khan Academy">
-<img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" height="40" width="40" alt="Coursera" title="Coursera">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXqjPNtfM-ot5YLNcWT2hF4iJWeOYg50nzxA&s" height="40" width="40" alt="CS50" title="CS50 (Harvard)">
-<img src="![image](https://github.com/user-attachments/assets/471b8733-ee93-41f0-9f61-85854ee6d7bf)
-" height="40" width="40" alt="MIT" title="MIT (MIT Open Courseware)">
-</div>
-</div>
-
----
-
-## Making Waves 🌍
-- **Our Scolario**: Co-founder—7,000+ students, scholarship & uni support  
-- **Leadership Vibes**: Interact Club Past Prez, ICT Olympiad State Lead, Rotaract & UNYSA Volunteer  
-- **Community Love**: Teaching ICT & English to underprivileged kids  
-
----
-
-## Connect with Me 🌐
-<p align="left">
-<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" title="Twitter" /></a>
-<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" title="LinkedIn" /></a>
-<a href="https://github.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" title="GitHub" /></a>
-<a href="https://www.instagram.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" title="Instagram" /></a>
-<a href="https://www.facebook.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" title="Facebook" /></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4" alt="Profile views">
-</p>
