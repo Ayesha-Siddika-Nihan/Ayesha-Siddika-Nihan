@@ -1,13 +1,12 @@
 <h1> Yo, < coders/>!  </h1>
 
-<h3 align="center">Nihan| 19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President -Interact club | Bangladeshi | 🍉</h3>
-
----
-
-
 <p align="center">
 <img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image%20(6).png?raw=true" alt="Banner">
 </p>
+
+<h3 align="center">Nihan| 19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President -Interact club | Bangladeshi | 🍉</h3>
+
+---
 
 ### 👋 Hey, I’m Ayesha!
 
