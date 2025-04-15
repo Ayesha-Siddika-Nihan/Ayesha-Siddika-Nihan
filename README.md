@@ -14,19 +14,8 @@ I'm a 19-year-old recent grad from Rajshahi Government Women’s College, now on
 
 ---
 
-## 📚 Coursework Highlights
+- **Self-Study**: CS50x, programming,Cybersecurity, Math & Physics  
 
-- **Self-Study**: CS50x, programming,Cybersecurity, MIT OCW Math & Physics  
-
-- ✅ CS50x (Intro to Computer Science)  
-- ✅ CS50’s Intro to Programming with Python  
-- ✅ CS50’s Intro to Databases with SQL  
-- ✅ CS50’s Intro to Artificial Intelligence  
-- ✅ CS50’s Intro to Cybersecurity  
-- 🚧 Cisco - Junior Cybersecurity Path (ongoing)  
-- 🧠 Khan Academy (exploring during gap)
-
----
 ## 🚀 My Tech Toolkit
 
 <p align="left">
