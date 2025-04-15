@@ -7,15 +7,13 @@
 <h3 align="center" style="color:#003153;">Nihan | 19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President - Interact Club | Bangladeshi | 🍉</h3>
 
 ---
-
-### 👋 Hey, I’m Ayesha!
-
+ <br> 
+<h1 align="center">👋 Assalamualykum, I’m Ayesha ! </h1>
+<br>
 I'm a 19-year-old recent grad from Rajshahi Government Women’s College, now on a gap year adventure! I’m all about becoming well-educated and giving back to my community in big ways. I scored a 96% in ICT, dove into C and web dev, and now I’m exploring CS50x and Python. I co-founded **Our Scolario** (7,000+ students strong), lead in Rotaract, and teach ICT to kids. When I’m not coding or volunteering, you’ll find me lost in movies, gaming, or dreaming up my next big move. Plus, I love volunteering and staying involved in extracurriculars. Excited to see where this journey leads me!
 
 ---
-
-- **Self-Study**: CS50x, programming, Cybersecurity, Math & Physics
-
+<p align="center"> Self-Study: CS50x, programming, Cybersecurity, Math & Physics </p>
 
 ## 🚀 My Tech Toolkit
 
