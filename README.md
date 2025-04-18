@@ -11,7 +11,8 @@
 
 ---
 
-## 🚀 My Tech Toolkit
+## <h2 align="center">My Tech Toolkit </h2>
+ 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-0A1172?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,9 +40,9 @@
   <img src="https://img.shields.io/badge/Cisco-003B71?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-## 🌐 Catch me Online
+## <h2 align="center"> 🌐 Catch me Online </h2>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A1172?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
