@@ -14,7 +14,7 @@
 ## <h2 align="center">My Tech Toolkit </h2>
  
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-0A1172?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1034A6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-0E4D92?style=for-the-badge&logo=python&logoColor=white"/>
