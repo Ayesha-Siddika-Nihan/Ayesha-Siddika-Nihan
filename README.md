@@ -38,6 +38,14 @@
   <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Co--Pilot-0078D4?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-003B71?style=for-the-badge&logo=cisco&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Replit-002D62?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bolt.ai-0B2545?style=for-the-badge&logo=bolt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta-1D2D50?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-061A40?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-003366?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1034A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Scholar-13315C?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Video_Games-0D1B2A?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
 
 ## <h2 align="center"> 🌐 Catch me Online </h2>
