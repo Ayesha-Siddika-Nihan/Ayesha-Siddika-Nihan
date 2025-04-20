@@ -51,20 +51,19 @@
 ## <h2 align="center"> 🌐 Catch me Online </h2>
 
 <p align="center">
-  <a href="https://github.com/Ayesha-Siddika-Nihan" target="_blank">
+  <a href="https://github.com/Ayesha-Siddika-Nihan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0A1172?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/ayesha-siddika-242195345" target="_blank">
+  <a href="https://www.linkedin.com/in/ayesha-siddika-242195345" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-1034A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ayeshasiddika.reachout@gmail.com
-" target="_blank">
-    <img src="https://img.shields.io/badge/Email-1B365D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:ayeshasiddika.reachout@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/the_siddika_ayesha_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-003153?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/the_siddika_ayesha_/?fbclid=IwY2xjawJx3X9leHRuA2FlbQIxMAABHhwXlSmxYMtqARcvM4uEDMbwtHjVzZbQeC4peRn_Px_ngu9aYpHlBq8D6IbN_aem_f5ZZIgUyIrvJvaMnQ5GPMQ" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-0D47A1?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/ayeshasiddikanihan" target="_blank">
+  <a href="https://www.facebook.com/ayeshasiddikanihan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-001F54?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
