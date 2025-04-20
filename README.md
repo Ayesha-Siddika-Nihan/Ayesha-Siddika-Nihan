@@ -51,19 +51,20 @@
 ## <h2 align="center"> 🌐 Catch me Online </h2>
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Ayesha-Siddika-Nihan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A1172?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1034A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
+  <a href="mailto:ayeshasiddika.reachout@gmail.com
+" target="_blank">
     <img src="https://img.shields.io/badge/Email-1B365D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/the_siddika_ayesha" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-003153?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/ayeshasiddikanihan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-001F54?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
