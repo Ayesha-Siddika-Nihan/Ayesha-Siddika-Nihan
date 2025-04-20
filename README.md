@@ -11,59 +11,56 @@
 
 ---
 
-## <h2 align="center">My Tech Toolkit </h2>
- 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0A1172?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1034A6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-0E4D92?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-001F54?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-003153?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-0C234B?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-011F5B?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-1B365D?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-002147?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-005288?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-0B0C10?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-011F4B?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pantheon-003B6F?style=for-the-badge&logo=pantheon&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-002244?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-001C55?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scratch-0A0A23?style=for-the-badge&logo=scratch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Science-0F3057?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-001F3F?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-0D3B66?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek-123456?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Co--Pilot-0078D4?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-003B71?style=for-the-badge&logo=cisco&logoColor=white"/>
- <img src="https://img.shields.io/badge/Replit-002D62?style=for-the-badge&logo=replit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bolt.ai-0B2545?style=for-the-badge&logo=bolt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta-1D2D50?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-061A40?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-003366?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-1034A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Scholar-13315C?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Video_Games-0D1B2A?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-0000FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-001F3F?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-002366?style=for-the-badge&logo=javascript&logoColor=7DF9FF"/> 
+  <img src="https://img.shields.io/badge/Python-00008B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-0000CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000099?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-0000FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003153?style=for-the-badge&logo=postgresql&logoColor=48D1CC"/>
+  <img src="https://img.shields.io/badge/VS_Code-00008B?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-0000CC?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-000099?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pantheon-0000FF?style=for-the-badge&logo=pantheon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-00008B?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0000CC?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scratch-000000?style=for-the-badge&logo=scratch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Science-0000FF?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-00008B?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-000022?style=for-the-badge&logo=openai&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/DeepSeek-000033?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-00008B?style=for-the-badge&logo=cisco&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Co--Pilot-00111C?style=for-the-badge&logo=githubcopilot&logoColor=0099FF"/>
+ <img src="https://img.shields.io/badge/Replit-0000CC?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bolt.ai-000099?style=for-the-badge&logo=bolt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta-0000FF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-002B36?style=for-the-badge&logo=canva&logoColor=00CCCC"/>
+   <img src="https://img.shields.io/badge/LinkedIn-00008B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Video_Games-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+
 </p>
 
 ## <h2 align="center"> 🌐 Catch me Online </h2>
 
 <p align="center">
   <a href="https://github.com/Ayesha-Siddika-Nihan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0A1172?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ayesha-siddika-242195345" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-1034A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ayeshasiddika.reachout@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-1A237E?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00008B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/the_siddika_ayesha_/?fbclid=IwY2xjawJx3X9leHRuA2FlbQIxMAABHhwXlSmxYMtqARcvM4uEDMbwtHjVzZbQeC4peRn_Px_ngu9aYpHlBq8D6IbN_aem_f5ZZIgUyIrvJvaMnQ5GPMQ" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-0D47A1?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-000033?style=for-the-badge&logo=instagram&logoColor=00F0FF"/>
   </a>
   <a href="https://www.facebook.com/ayeshasiddikanihan" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-001F54?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-000022?style=for-the-badge&logo=facebook&logoColor=00FFFF"/>
   </a>
 </p>
