@@ -1,7 +1,7 @@
 <h1 align="center">Yo, < coders/>!  </h1>
 
 <p align="center">
-  <img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image%20(6).png?raw=true" alt="Banner">
+  <img src="https://github.com/Ayesha-Siddika-Nihan/Ayesha-Siddika-Nihan/blob/main/Banner.png" alt="Banner">
 </p>
 
 <h3 align="center" style="color:#003153;">Nihan | 19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President - Interact Club | Bangladeshi | 🍉</h3>
