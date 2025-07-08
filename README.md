@@ -7,8 +7,8 @@
 <h3 align="center" style="color:#003153;">Nihan | 19 | Future Cybersecurity Professional | Self-Taught Techie | 24' | UNYSA Volunteer | Rotaract | Past President - Interact Club | Bangladeshi | 🍉</h3>
 
 
-👋 Hi, I’m Ayesha Siddika—most people call me Nihan. I’m 19, taking a gap year after graduating from Rajshahi Government Women’s College. My roots are in the humanities, but I’ve always had a thing for tech, so I taught myself computer science and started building from there. I co-founded Our Scolario, a student-led platform that’s reached over 7,000 learners. I’ve held leadership roles in Rotaract, Interact, VBD, and the ICT Olympiad, and I teach ICT to kids part-time. I care deeply about education, equity, and creating solutions that genuinely benefit people.
-Outside of all that, I love stories. Movies, games, anything with good characters and layered worlds. This year’s about learning, growing, and preparing to leap into tech and cybersecurity. Can’t wait to see where this journey takes me!
+<p>👋Hi, I’m Ayesha Siddika—most people call me Nihan. I’m 19, taking a gap year after graduating from Rajshahi Government Women’s College. My roots are in the humanities, but I’ve always had a thing for tech, so I taught myself computer science and started building from there. I co-founded Our Scolario, a student-led platform that’s reached over 7,000 learners. I’ve held leadership roles in Rotaract, Interact, VBD, and the ICT Olympiad, and I teach ICT to kids part-time. I care deeply about education, equity, and creating solutions that genuinely benefit people.
+Outside of all that, I love stories. Movies, games, anything with good characters and layered worlds. This year’s about learning, growing, and preparing to leap into tech and cybersecurity. Can’t wait to see where this journey takes me! </p>
 ---
 
 <p align="center">
