@@ -51,7 +51,7 @@ Outside of all that, I love stories. Movies, games, anything with good character
   <a href="https://github.com/Ayesha-Siddika-Nihan" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ayesha-siddika-242195345" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/ayesha-siddika-nihan/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ayeshasiddika.reachout@gmail.com" target="_blank" rel="noopener noreferrer">
