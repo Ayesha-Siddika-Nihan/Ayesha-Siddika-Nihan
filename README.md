@@ -57,7 +57,7 @@ Outside of all that, I love stories. Movies, games, anything with good character
   <a href="mailto:ayeshasiddika.reachout@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-00008B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/the_siddika_ayesha_/?fbclid=IwY2xjawJx3X9leHRuA2FlbQIxMAABHhwXlSmxYMtqARcvM4uEDMbwtHjVzZbQeC4peRn_Px_ngu9aYpHlBq8D6IbN_aem_f5ZZIgUyIrvJvaMnQ5GPMQ" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/iiam.ayeesha/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-000033?style=for-the-badge&logo=instagram&logoColor=00F0FF"/>
   </a>
   <a href="https://www.facebook.com/ayeshasiddikanihan" target="_blank" rel="noopener noreferrer">
